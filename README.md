@@ -16,3 +16,8 @@ This is a **2D Maze game**. The game is created using **OpenGL** where, a player
 2) Clone the repository
 3) Run the .c file on CodeBlocks on Windows or follow the steps from the video to run the program on Linux environments.
 4) Do star the repository if you found it helpful :)
+
+
+##### *Output[Screenshots]* :
+
+<img src="screenshots/page1.jpg" width="500" height="500">
