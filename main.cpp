@@ -68,13 +68,13 @@ void drawstring(int x, int y, char *string,void *font)
     drawstring(120,5," Press ENTER to go To next screen",GLUT_BITMAP_HELVETICA_18);
 	drawstring(-45,5,"Maximize window for better view",GLUT_BITMAP_HELVETICA_12);
     glColor3f(1,1,1);
-	output(5,160," BMSIT");
+	output(5,160,"BMSIT");
 	glColor3f(1,1,1);
 	output(10.0,150,"DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING");
 	glColor3f(1,0,1);
-	output(60,130,"A Mini Project On:-");
+	output(60,130,"CGV Mini Project On:-");
 	glColor3f(0,1,0.5);
-	output(38,120,"\"PATH FINDING USING OPENGL\"");
+	output(38,120,"\"MAZE GAME USING OPENGL\"");
 	glColor3f(1,0,1);
 	output(40,100,"By :");
 	glBegin(GL_LINES);
@@ -95,7 +95,7 @@ void drawstring(int x, int y, char *string,void *font)
 	output(40,50,"");
 	glColor3f(1,0,0);
 
-	output(70,40,"Prof.ShankarR");
+	output(70,40,"Prof.Shankar R");
 	glColor3f(1,0,0);
 	output(40,30,"");
 	glColor3f(1,0,0);
@@ -122,7 +122,7 @@ void startscreen()
 
 glClear(GL_COLOR_BUFFER_BIT);
 glColor3f(0.0,1.0,0.0);
-output(25,140,"WELCOME TO THE GAME FINDING THE PATH");
+output(25,140,"WELCOME TO THE GAME");
 output(50,100,"1.NEW GAME");
 output(50,80,"2.INSTRUCTIONS");
 output(50,60,"3.QUIT");
