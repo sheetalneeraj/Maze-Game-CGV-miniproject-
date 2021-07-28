@@ -22,7 +22,8 @@ This is a **2D Maze game**. The game is created using **OpenGL** where, a player
 
 <img src="screenshots/page1.png" width="1000" height="500">
 <img src="screenshots/page2.png" width="1000" height="500">
-<img src="screenshots/page3.png" width="1000" height="500">
 <img src="screenshots/page4.png" width="1000" height="500">
+<img src="screenshots/page3.png" width="1000" height="500">
+
 
 ## Thank You !!
