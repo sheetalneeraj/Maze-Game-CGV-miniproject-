@@ -20,4 +20,4 @@ This is a **2D Maze game**. The game is created using **OpenGL** where, a player
 
 ##### *Output[Screenshots]* :
 
-<img src="screenshots/page1.png" width="500" height="500">
+<img src="screenshots/page1.png" width="1000" height="500">
